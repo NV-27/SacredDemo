@@ -12,3 +12,6 @@
   - [sacred-пайплайн](https://github.com/NV-27/SacredDemo/blob/master/pipeline/sacred_pipeline.py), с использованием основных возможностей Sacred: автозапуск эксперимента и автоматическое сохранение мета-информации;
   - [sacred-пайплайн с конфигурированием](https://github.com/NV-27/SacredDemo/blob/master/pipeline/sacred_pipeline_with_config.py), с использованием функции-конфигуратора эксперимента;
   - [sacred-пайплайн с внешним конфигом](https://github.com/NV-27/SacredDemo/blob/master/pipeline/sacred_pipeline_with_external_config.py).
+
+:white_check_mark: [Исходные файлы](https://github.com/NV-27/SacredDemo/tree/master/src), используемые в ходе обучения моделей;
+:white_check_mark: [Конфигурационные файлы](https://github.com/NV-27/SacredDemo/tree/master/configs), используемые в advanced-пайплайнах;

@@ -14,4 +14,5 @@
   - [sacred-пайплайн с внешним конфигом](https://github.com/NV-27/SacredDemo/blob/master/pipeline/sacred_pipeline_with_external_config.py).
 
 :white_check_mark: [Исходные файлы](https://github.com/NV-27/SacredDemo/tree/master/src), используемые в ходе обучения моделей;
+
 :white_check_mark: [Конфигурационные файлы](https://github.com/NV-27/SacredDemo/tree/master/configs), используемые в advanced-пайплайнах;

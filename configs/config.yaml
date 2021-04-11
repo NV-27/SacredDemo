@@ -1,0 +1,24 @@
+filename: "/Users/nv27/Documents/other_ml/data/home-credit-default-risk/application_train.csv"
+target_name: "TARGET"
+
+fill_missing: True
+fill_value: 0
+
+cv_strategy: "kfold"
+n_folds: 5
+shuffle: True
+cv_seed: 42
+
+model_type: catboost
+model_params: {
+  "n_estimators": 1000,
+  "loss_function": "Logloss",
+  "eval_metric": "AUC",
+  "task_type": "CPU",
+  "max_depth": 6,
+  "max_bin": 20,
+  "verbose": 10,
+  "l2_leaf_reg": 100,
+  "early_stopping_rounds": 50,
+  "random_seed": 42
+}

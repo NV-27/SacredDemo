@@ -6,3 +6,5 @@
 
 :white_check_mark: [Слайды](https://github.com/NV-27/SacredDemo/blob/master/references/sacred.pdf) презентации;
 
+:white_check_mark: [Пайплайны](https://github.com/NV-27/SacredDemo/tree/master/pipeline), используемые в демонстрации;
+  - [базовый пайплайн](https://github.com/NV-27/SacredDemo/blob/master/pipeline/base_pipeline.py), без использования возможностей Sacred;

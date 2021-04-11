@@ -4,4 +4,5 @@
 
 # Навигация по репозиторию
 
-:white_check_mark: [Презентация](https://github.com/NV-27/SacredDemo/blob/master/references/sacred.pdf)
+:white_check_mark: [Слайды](https://github.com/NV-27/SacredDemo/blob/master/references/sacred.pdf) презентации;
+
